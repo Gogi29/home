@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gogi29.github.io/home/sitemap.xml
